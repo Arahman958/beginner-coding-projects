@@ -1,0 +1,86 @@
+<html>
+  <head>
+    <title>My First HTML Project</title>
+  </head>
+  <body>
+    <h1> Hello world - My HTML Page </h1>
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Text Formatting Tags</title>
+  </head>
+  <body>
+<p> Who is Batman Forever’s breakout star? </p>
+<p> The Riddler’s onesie is my most honest answer, </p>
+<p> but a firm second place is Tommy Lee Jones, </p>
+<p> who famously hated being there, </p>
+<p> but who—being a pro—looks like he’s having the time of his life. </p>
+<p> Whereas comparing Jack Nicholson and Heath Ledger’s Jokers still gives you a satisfying sense of superhero movie weirdness, </p>
+<p> comparing Tommy Lee Jones’s Two-Face with Aaron Eckhart’s gives you a sense of what these movies have lost. </p>
+<p> You can sort of summarize it in one word—camp—but Jones’s performance is almost too begrudgingly off-putting for that. </p>
+<p> Somehow, it works. </p>
+
+<p><b>This text is bold</b></p> 
+
+<p><strong> This text is strong </strong></p>
+
+<p><i> This text is italic </i></p>
+
+<p><em> This text is emphasied </em></p>
+
+<p><sup> (a+b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab </p>
+
+<p><mark> This text is marked with yellow color </p>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> My heading tags </title>
+  </head>
+  <body>
+
+<h1> Heading - 1 </h1>
+
+<h2> Heading - 2 </h2>
+
+<h3> Heading - 3 </h3>
+
+<h4> Heading - 4 </h4>
+
+<h5> Heading - 5 </h5>
+
+<h6> Heading - 6 </h6>
+
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>  </title>
+  </head>
+  <body>
+
+<h1 style = ""color:red"> Hello World </h1>
+<h1 id = "head 1"> Heading - 1 </h1>
+<h1 id = "head 2"> Heading - 2 </h1>
+
+
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
