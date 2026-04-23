@@ -79,18 +79,55 @@
     <title> Links and Navigations </title>
   </head>
   <body>
+  <a href="https://www.youtube.com/watch?v=KcdntGkxlXA&list=PLHwg4_kzXXHW-4MS-aqdIV-WcWIMVLszw&index=26"> Link Text </a>
+  <br />
+  <a href="https://www.youtube.com/watch?v=8e8yGOXPeT8&list=PLHwg4_kzXXHW-4MS-aqdIV-WcWIMVLszw&index=20""> Link Text </a>
+  <br />
 
-   <a href="https://www.youtube.com/watch?v=KcdntGkxlXA&list=PLHwg4_kzXXHW-4MS-aqdIV-WcWIMVLszw&index=26"> Link Text </a>
- 
+  <h3> Email Link </h3>
+  <p><a href="arahman958958@gmail.com"> </a> </p>
 
+  <h3> Phone Link </h3>
+  <p> Call us : <a href="tel:+123456789"> + 1 234 567890 </a></p>
+
+  <h3> File Down Link </h3>
+  <p>
+  <a href = "sample.pdf" download> Download pdf </a>
+  </p>
 
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Navigating in Same Page </title>
 
+  </head>
+  <body>
+    <h1 id = "top"> Jump to Main Section </h1>
 
+<p><a href="#section1"> Go to section-1 </a></p>
+<p><a href="#section2"> Go to section-2 </a></p>
+<p><a href="#section3"> Go to section-3 </a></p>
+<hr>
 
+<h2 id=""section1> Section - 1 </h2>
+<p> This is section 1 content </p>
+<p><a href=#top>Go to Top</a></p>
+<hr>
 
+<h2 id=""section1> Section - 2 </h2>
+<p> This is section 2 content </p>
+<p><a href=#top>Go to Top</a></p>
+<hr>
+
+<h2 id=""section1> Section - 3 </h2>
+<p> This is section 3 content </p>
+<p><a href=#top>Go to Top</a></p>
+
+  </body>
+</html>
 
 
 
