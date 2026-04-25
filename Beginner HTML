@@ -129,5 +129,44 @@
   </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>  </title>
+  </head>
+  <body>
+
+  <img src = "https://m.media-amazon.com/images/M/MV5BNDBkMWRhMzEtM2M0Ny00OGZhLThkZGMtMTY1NWUwZWNhODdiXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" alt = "DD Born Again" /> 
+  <a href = "https://www.youtube.com/watch?v=llc7u2crT04&list=PLHwg4_kzXXHW-4MS-aqdIV-WcWIMVLszw&index=22" target=_"blank">
+    <img src = "google_logo.jpg" alt = "google logo" width = "120px">
+  </a>
+  <hr>
+
+  <img src = "notfound.jpg" alt ="This image is missing" width = "200px">
+
+  <video src = "soccer.mp4" type ="video/mp4></video>
+
+  <video>
+  <source src = "soccer.mp4" type = "video/mp4" />
+  Your browser does not support video files
+
+  </video>
+
+  <video width="640px" height="360px" controls>
+    <source src="soccer.mp4" type="video/mp4" />
+  Your browser does not support video files
+  </video>
+
+  <audio controls>
+
+  <source src=""Titanic-Theme.mp3" type="audio/mpeg">
+
+  </audio>
+
+  </body>
+</html>
+
+
+
 
 
