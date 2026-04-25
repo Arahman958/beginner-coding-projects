@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Lists </title>
+    <meta charset="UTF-8">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1'>
+    <link href = "css/style.css" rel="stylesheet">
+</head>
+<body>
+<h3> List of Movies <h3>
+<ol type="i">
+<li> Jaws </li>
+<li> Oppenheimer </li>
+<li> Iron Man </li>
+<li> La La Land </li>
+<li> Die Hard </li>
+</ol>
+
+<ul type="circle">
+<li> Batman </li>
+<li> Godzilla </li>
+<li> Whiplash </li>
+<li> Halloween </li>
+<li> Star Wars </li>
+</ul>
+
+<dl>
+<dt>Batman</dt>
+<dd>bruce Wayne</dd>
+
+<dt>Daredevil</dt>
+<dd>Matthew Murdock</dd>
+
+<dt>The Punisher</dt>
+<dd>Frank Castle</dd>
+</dl>
+
+</body>
+</html>
