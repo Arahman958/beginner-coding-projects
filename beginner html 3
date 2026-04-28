@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Colspan and Rowspan Example </title>
+</head>
+<body>
+
+<table border="1px">
+  <tr>
+    <th colspan="2"> Full Name and City </th>
+    <th> Age </th>
+  </tr>
+  <tr>
+    <td> Tom </td>
+    <td> Sawyer </td>
+    <td> Newark </td>
+    <td> 19 </td>
+  </tr>
+  <tr>
+    <td> Hero </td>
+    <td> Nagami </td>
+    <td> Tokyo </td>
+    <td> 23 </td>
+
+    <table border = "1px">
+    <tr>
+      <th> Name </th>
+      <td> John Tax </td>
+    </tr>
+
+    <tr>
+      <th rowspan = "2"> Mobile Num </th>
+      <td> 6767676767 </td>
+    </tr>
+
+    <tr>
+      <td> 6456354797 </td>
+    </tr>
+    </table>
+  </tr>  
+</table>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name = "viewport" content="width=device-width, initial-scale=1.0">
+  <title> HTML Table Sections </title>
+</head>
+<body>
+
+  <table border = "1px">
+    <thead>
+      <tr>
+        <th> Product Name </th>
+        <th> Quantity Sold </th>
+        <th> Unit Price </th>
+        <th> Total Sales </th>
+      </tr>
+    
+    </thead>
+
+    <tbody>
+      <tr> 
+        <td> Apple Iphone </td>
+        <td> 1000 </td>
+        <td> $1000 </td>
+        <td> $1,000,000 </td>
+      </tr>
+
+      <tr>
+        <td> Macbook </td>
+        <td> 300 </td> 
+        <td> $2000 </td>
+        <td> $600,000 </td>
+      </tr>
+      
+    </tbody>
+    
+    <tr>
+      <td colspan="3"> Grand Total : </td>
+      <td> $1,600,000 </td>
+    </tr>
+
+    <tfoot>
+    
+    </tfoot>
+
+
+</html>
