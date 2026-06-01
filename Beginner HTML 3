@@ -35,7 +35,123 @@
 </head>
 <body>
 
+  <form>
+    <label for ="website"> Website: </label>
+    <input type="url" name="website" place="https://example.com" required>
+    <input type="submit" value ="Submit">
+  </form>
 
+  <form>
+    <label for ="ageInput"> Age </label>
+    <input type ="number" min="1" max="100" step="1">
+  </form>
+
+  <form>
+    <input type ="range" name="range" min="1" max="100" step="5">
+    <label> Volume Control </label>
+  </form>
+
+  <form>
+    <label> Enter Phone Number </label>
+    <input type="tel" pattern="[0-9]{10}" placeholder="1234567890">
+  </form>
+
+  <form>
+    <label>Select Date</label>
+    <input type="date" min="2025-01-01" max="2025-12-31">
+  </form>
+
+  <form>
+    <label>Select Time</label>
+    <input type="time">
+  </form>
+
+  <form>
+    <label>Select Gender</label>
+    <input type="radio" name="gender" value="Male" >
+    <input type="radio" name="gender" value="Female">
+ </form>
+
+  <form>
+    <label>Select any one language and one database</label>
+    <input type="radio" name="Lang" value="C"> C Programming <br>
+    <input type="radio" name="Lang" value="Cplusplus"> C++ Programming <br>
+    <input type="radio" name="Lang" value="Java"> Java Programming <br>
+    <input type="radio" name="Lang" value="Python"> Python Programming <br>
+
+  <hr>
+
+    <input type="radio" name="Database" value="Oracle"> Oracle Database
+    <input type="radio" name="Database" value="SqlServer"> SqlServer Database
+    <input type="radio" name="Database" value="MySQL"> MySQL Database
+    <input type="radio" name="Database" value="PostgreSQL"> PostGre Database
+  </form>
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta charset="viewport" content="width=device-width, initial-scale=1">
+  <title>html Form</title>
+</head>
+<body>
+  <form>
+    <label>Please Select your hobbies</label>
+    <input type="checkbox" id="reading" name="hobbies" value="Reading"> Reading
+    <input type="checkbox" id="travelling" name="hobbies" value="travelling"> Travelling
+    <input type="checkbox" id="gaming" name="hobbies" value="gaming"> Gaming
+    <input type="checkbox" id="sleeping" name="hobbies" value="sleeping"> Sleeping
+
+  </form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta charset="viewport" content="width=device-width, initial-scale=1">
+  <title>html Form</title>
+</head>
+<body>
+
+  <header>
+    <h2>My website</h2>
+
+    <nav>
+      <a href="#">About Us</a>
+      <a href="#">About Us</a>
+    </nav>
+  </header>
+
+  <main>
+  <section>
+  <article>
+    <p>Blog Post Title</p>
+  </article>
+  </section>
+
+  <aside>
+    <h3>Realted Links</h3>
+    <ul>
+      <li><a href="#">HTML Basics</a></li>
+      <li><a href="#">CSS Basics</a></li>
+    </ul>
+  </aside>
+</main>
+
+<footer>
+
+</footer>
+  
+  </section>
+</body>
+</html>
+
+
+
+
+
